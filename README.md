@@ -1,16 +1,31 @@
-## Hi there 👋
+<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/64ae308b-49c3-4dea-a429-eec8bf341862" />
 
-<!--
-**akervald/akervald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Andy
 
-Here are some ideas to get you started:
+**Systems & Backend Engineer** Undergraduate student  
+Open to full-time Systems Engineering or Backend Engineering roles starting **November 2026**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://linkedin.com/in/andrii-kernytskyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://gitlab.com/akervald"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+</p>
+
+---
+
+## Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,git" alt="Tech Stack" />
+</p>
+
+---
+
+## OSS Contributions
+
+### [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of GNU Coreutils
+
+* **[PR #11143](https://github.com/uutils/coreutils/pull/11143)** - `cut`: fix `-s` flag for newline delimiter and optimize memory allocation (`Merged`)
+
+---
+
+Feel free to connect or reach out via [LinkedIn](https://linkedin.com/in/andrii-kernytskyi).
