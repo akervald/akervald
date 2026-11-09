@@ -2,8 +2,7 @@
 
 # Hi, I'm Andy
 
-**Systems & Backend Engineer** Undergraduate student  
-Open to full-time Systems Engineering or Backend Engineering roles starting **November 2026**.
+**Systems & Backend Engineer**
 
 <p align="left">
   <a href="https://linkedin.com/in/andrii-kernytskyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -28,4 +27,4 @@ Open to full-time Systems Engineering or Backend Engineering roles starting **No
 
 ---
 
-Feel free to connect or reach out via [LinkedIn](https://linkedin.com/in/andrii-kernytskyi).
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/andrii-kernytskyi).
